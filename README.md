@@ -343,6 +343,7 @@ class TDCDockingEnv(EnvBase):
 ```
 ## Cite
 
+```
 @inproceedings{IDToolkit,
   author       = {Jia-Qi Yang and
                   Yucheng Xu and
@@ -354,3 +355,4 @@ class TDCDockingEnv(EnvBase):
   booktitle    = {{KDD} '23: The 29th {ACM} {SIGKDD} Conference on Knowledge Discovery and Data Mining},
   year         = {2023},
 }
+```
