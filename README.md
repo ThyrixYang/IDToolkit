@@ -341,3 +341,16 @@ class TDCDockingEnv(EnvBase):
     def get_output_dim(self):
         return 3
 ```
+## Cite
+
+@inproceedings{IDToolkit,
+  author       = {Jia-Qi Yang and
+                  Yucheng Xu and
+		  Jia-Lei Shen and
+                  Kebin Fan and
+                  De-Chuan Zhan and
+		  Yang Yang},
+  title        = {IDToolkit: A Toolkit for Benchmarking and Developing Inverse Design Algorithms in Nanophotonics},
+  booktitle    = {{KDD} '23: The 29th {ACM} {SIGKDD} Conference on Knowledge Discovery and Data Mining},
+  year         = {2023},
+}
