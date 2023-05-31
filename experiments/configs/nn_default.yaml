@@ -1,0 +1,6 @@
+lr: 1e-3
+num_workers: 20
+batch_size: 128
+val_ratio: 0.1
+max_epochs: 100
+bn: false

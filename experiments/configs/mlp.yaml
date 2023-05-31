@@ -1,0 +1,3 @@
+net: mlp
+hidden_size: 256
+hidden_num: 6

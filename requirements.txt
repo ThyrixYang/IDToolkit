@@ -1,0 +1,11 @@
+rich==13.3.1
+pandas==1.5.3
+tqdm==4.64.1
+PyYAML==6.0
+ray[tune]==2.3.0
+pytorch_lightning==1.9.3
+joblib==1.2.0
+nevergrad==0.6.0
+xgboost==1.7.4
+nltk==3.8.1
+networkx==3.1

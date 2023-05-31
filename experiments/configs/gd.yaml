@@ -1,0 +1,16 @@
+net: gd
+hidden_size: 256
+hidden_num: 6
+
+lr: 1e-3
+num_workers: 20
+batch_size: 128
+val_ratio: 0.1
+bn: False
+
+pred_repeat_num: 1000
+gd_lr: 1e-1
+gd_step: 500
+eval_cut: 0.1
+
+max_epochs: 100

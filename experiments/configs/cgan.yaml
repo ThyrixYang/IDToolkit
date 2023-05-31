@@ -1,0 +1,13 @@
+net: cgan
+
+lr: 1e-4
+num_workers: 20
+batch_size: 128
+val_ratio: 0.1
+bn: False
+
+hidden_size: 256
+hidden_num: 6
+z_dim: 128
+
+max_epochs: 100
