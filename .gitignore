@@ -17,3 +17,4 @@ plots/*.svg
 *.tab
 
 checkpoint/
+test.py

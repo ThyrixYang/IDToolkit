@@ -1,4 +1,7 @@
 # Inverse design benchmark
+
+IDToolkit: A Toolkit for Benchmarking and Developing Inverse Design Algorithms in Nanophotonics, KDD'23
+
 ## Requirements
 
 - rich==13.3.1

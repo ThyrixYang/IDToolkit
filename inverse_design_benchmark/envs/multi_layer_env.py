@@ -10,8 +10,8 @@ from .multi_layer_model import simulate, load_target
 
 class MultiLayerEnv(EnvBase):
     
-    def __init__(self, seed=0, save_model=False, substitute_model="", ensemble=False):
-        super().__init__("multi_layer", seed, save_model, substitute_model, ensemble)
+    def __init__(self, seed=0, save_model=False, substitute_model_name="", ensemble=False):
+        super().__init__("multi_layer", seed, save_model, substitute_model_name, ensemble)
         self.target, self.wavelength = load_target()
     
     def env_forward(self, param, force_numerical=False):
