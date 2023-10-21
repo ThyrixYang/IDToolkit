@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ThyrixYang/IDToolkit/blob/main/IDToolkit-logo.png?raw=true" alt="IDToolkit-logo"/>
+</p>
+
 # Inverse design benchmark
 
 IDToolkit: A Toolkit for Benchmarking and Developing Inverse Design Algorithms in Nanophotonics, KDD'23
